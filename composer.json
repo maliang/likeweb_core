@@ -1,16 +1,16 @@
 {
     "name": "likeweb/core",
-    "alias": "",
-    "description": "Description...",
+    "alias": "LikewebCore",
+    "description": "likeweb核心组件",
     "type": "library",
-    "version": "1.0.0",
-    "keywords": ["owl-admin", "extension"],
-    "homepage": "https://github.com/likeweb/core",
+    "version": "0.1.0",
+    "keywords": ["owl-admin", "likeweb", "extension"],
+    "homepage": "https://github.com/maliang/likeweb_core",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "maliang",
+            "email": "maliang47@foxmail.com"
         }
     ],
     "require": {
